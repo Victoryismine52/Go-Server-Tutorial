@@ -1,5 +1,5 @@
 # GoLang Server Tutorial
-The following is an example of a very simple go microservice used to demonstrate how golang can be used to create a simple webservice. 
+The following is an example of a very simple go web application. 
 
 For the purpose of this exercise we will be creating a simple server using **golang** to listen and serve requests. This will then be wrapped in a Docker container for easy deployment. 
 
