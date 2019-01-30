@@ -1,7 +1,7 @@
 # GoLang Server Tutorial
 The following is an example of a very simple go microservice used to demonstrate how golang can be used to create a simple webservice. 
 
-For the purpose of this exercise we will be creating a server using **golang** to listen and serve requests on port 8080. This will then be wrapped in a Docker container exposed to port 80 (standard localhost) on your machine. 
+For the purpose of this exercise we will be creating a simple server using **golang** to listen and serve requests. This will then be wrapped in a Docker container for easy deployment. 
 
 During the course of this exercise we will do the following.  
 
