@@ -29,7 +29,7 @@ Docker is a really interesting tool that will help you a lot with your testing a
 	docker tutorial - (add docker tutorial)
 	
 # Next let's look at the Golang app branch
-This branch is where we add the application code that returns http files that allow users to add themselves to a members list and then see all associated members of the group. The first thing that you should notice is that all of the server code from the last branch is still here and we are just adding application code. This allows us to have a nice starting point for any additional golang applications you wish to build in the future. 
+This branch is where we add the application code that returns html files that allow users to add themselves to a members list and then see all associated members of the group. The first thing that you should notice is that all of the server code from the last branch is still here and we are just adding application code. This allows us to have a nice starting point for any additional golang applications you wish to build in the future. 
 	
 	Golang app tutorial - (add golang tutorial)
 
